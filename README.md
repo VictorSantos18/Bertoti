@@ -34,6 +34,9 @@
  <br></br>
   | n° da Euristica | imagem | contexto |
   | --- | --- | --- |
-  | 5 - Prevenção de Erro / 3 - Controle e liberdade do usuário | ![image](https://github.com/VictorSantos18/Bertoti/assets/100814132/e1ee0b5f-f878-4007-b5e8-0fede8662ea0) | Elimine as condições propensas a erros ou verifique-as e apresente aos usuários uma opção de confirmação antes que eles se comprometam com a ação.|
-   | ---| --- | linha 2, coluna 3|
-   |  linha 2, coluna 1 | --- | linha 2, coluna 3|
+  |3 -  Controle e liberdade do usuário|![mult step form](https://github.com/VictorSantos18/Bertoti/assets/100814132/f6ecae69-7ef7-4025-bace-e371daa5be15) | texto |
+  | 5 - Prevenção de Erro | ![image](https://github.com/VictorSantos18/Bertoti/assets/100814132/e1ee0b5f-f878-4007-b5e8-0fede8662ea0) | Elimine as condições propensas a erros ou verifique-as e apresente aos usuários uma opção de confirmação antes que eles se comprometam com a ação.|
+   | 6- Reconhecimeto em vez de lembrança | ![image](https://github.com/VictorSantos18/Bertoti/assets/100814132/24ce7a9a-0aed-49d2-ad54-2045f0cbbaea) | linha 2, coluna 3|
+   |  8 - Design estéticoe minimalista| ![image](https://github.com/VictorSantos18/Bertoti/assets/100814132/086d48f4-ffa1-44d1-9fd0-a6af6c19cf71)| texto |
+   | 9 - Ajude os usuários a reconhecer, diagnosticar e recuperar-se de erros | ![recuperação](https://github.com/VictorSantos18/Bertoti/assets/100814132/2846742e-7237-49d7-960b-8b72b70250a7)| texto |
+ | 10  - Ajuda e Documentaçãoo | linha 2,![image](https://github.com/VictorSantos18/Bertoti/assets/100814132/646ea00d-fa87-4f98-b1d0-8c3dee7b4968) | coluna 3|
